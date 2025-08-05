@@ -1,0 +1,14 @@
+# Mac
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Ruby
+*.rbc
+.bundle/
+Gemfile.lock
+
+# Node
+node_modules/
+npm-debug.log
